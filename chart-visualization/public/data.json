@@ -1,0 +1,78 @@
+{
+    "student": [{
+            "id":1,
+            "name": "Naruto Uzumaki",
+            "status": "Present"
+        },
+        {
+            "id":2,
+            "name": "Itachi Uchiha",
+            "status": "Absent"
+        },
+        {
+            "id":3,
+            "name": "Sasuke Uchiha",
+            "status": "Present"
+        },
+        {
+            "id":4,
+            "name": "Kakashi Hatake",
+            "status": "On Leave"
+        },
+        {
+            "id":5,
+            "name": "Hinata Hyuga",
+            "status": "Present"
+        },
+        {
+            "id":6,
+            "name": "Sakura Haruno",
+            "status": "On Leave"
+        },
+        {
+            "id":7,
+            "name": "Gaara",
+            "status": "Absent"
+        },
+        {
+            "id":8,
+            "name": "Tsunade",
+            "status": "On Leave"
+        },
+        {
+            "id":9,
+            "name": "Jiraiya",
+            "status": "Present"
+        },
+        {
+            "id":10,
+            "name": "Minato Namikaze",
+            "status": "Absent"
+        },
+        {
+            "id":11,
+            "name": "Rock Lee",
+            "status": "Present"
+        },
+        {
+            "id":12,
+            "name": "Shikamaru Nara",
+            "status": "On Leave"
+        },
+        {
+            "id":13,
+            "name": "Ino Yamanaka",
+            "status": "Present"
+        },
+        {
+            "id":14,
+            "name": "Konohamaru Sarutobi",
+            "status": "On Leave"
+        },
+        {
+            "id":15,
+            "name": "Boruto Uzumaki",
+            "status": "Absent"
+        }
+    ]
+}
