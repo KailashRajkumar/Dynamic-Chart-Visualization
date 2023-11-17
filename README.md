@@ -6,7 +6,11 @@ Developed a dynamic Chart Visualization project using React.js, Bootstrap, and C
 
 ## Skills ##
 
-React Js 
-Bootstrap
+React Js ,
+Bootstrap,
 Chart Js
+
+## Backend 
+
+MongoDb Compass
 
